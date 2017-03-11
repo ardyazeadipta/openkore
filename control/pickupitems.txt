@@ -11,3 +11,4 @@
 all 1
 # jellopy 0
 # fluff 0
+Stone 0

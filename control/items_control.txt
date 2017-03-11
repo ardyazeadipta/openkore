@@ -56,12 +56,13 @@ Red Potion 25 1 0
 Orange Potion 25 1 0
 White Potion 25 1 0
 Yellow potion 25 1 0
+Hunting Arrow Quiver 5 1 0
 
 ##### ARROWS #####
 # You may want to modify these if you're an archer/hunter
 
 Arrow 3000 1 0
-
+Hunting Arrow 1000 1 0
 
 
 #########################
@@ -428,7 +429,7 @@ Lava 0 0 1
 Live Coal 0 0 1
 Manacles 0 0 1
 Mane 0 0 1
-Maneater Blossom 0 0 1
+#Maneater Blossom 0 0 1
 Maneater Root 0 0 1
 Mantis Scythe 0 0 1
 Matchstick 0 0 1
@@ -444,7 +445,7 @@ Moth Dust 0 0 1
 Mother's Letter 0 0 1
 Moth Wings 0 0 1
 Mud Lump 0 0 1
-Mushroom Spore 0 0 1
+Mushroom Spore 0 0 0
 Needle of Alarm 0 0 1
 Nightmare 0 0 1
 Nine Tails 0 0 1
@@ -456,7 +457,7 @@ Oil Paper 0 0 1
 Old Frying Pan 0 0 1
 Old Shuriken 0 0 1
 Orc Claw 0 0 1
-Orcish Voucher 0 0 1
+#Orcish Voucher 0 0 1
 Orc's Fang 0 0 1
 Osiris Doll 0 0 1
 PecoPeco Feather 0 0 1
@@ -469,7 +470,7 @@ Piece of Shield 0 0 1
 Pointed Scale 0 0 1
 Poisonous Powder 0 0 1
 Poisonous Toad Skin 0 0 1
-Poison Spore 0 0 1
+#Poison Spore 0 0 1
 Porcupine Quill 0 0 1
 Poring Doll 0 0 1
 Powder of Butterfly 0 0 1
@@ -485,7 +486,7 @@ Red Frame 0 0 1
 #Red Stocking 0 0 1
 Reins 0 0 1
 Reptile Tongue 0 0 1
-Resin 0 0 1
+Resin 0 0 0
 Rice Cake 0 0 1
 Rocker Doll 0 0 1
 Root of Stone 0 0 1
@@ -509,7 +510,7 @@ Shoot 0 0 1
 Short Daenggie 0 0 1
 Silk Mat 0 0 1
 Single Cell 0 0 1
-Skel-Bone 0 0 1
+#Skel-Bone 0 0 1
 Skull 0 0 1
 Slick Paper 0 0 1
 Snail's Shell 0 0 1
@@ -522,7 +523,7 @@ Spawn 0 0 1
 Spoon Stub 0 0 1
 Spore Doll 0 0 1
 Squid Ink 0 0 1
-Stem 0 0 1
+#Stem 0 0 1
 Sticky Mucus 0 0 1
 Sticky Webfoot 0 0 1
 Stiff Horn 0 0 1
@@ -544,7 +545,7 @@ Tough Scalelike Stem 0 0 1
 Tree Root 0 0 1
 #Tribal Solidarity 0 0 1
 Turtle Shell 0 0 1
-Venom Canine 0 0 1
+Venom Canine 0 0 0
 Wedding Bouquet 0 0 1
 Wing of Dragonfly 0 0 1
 Wing of Red Bat 0 0 1
@@ -595,3 +596,20 @@ Zenorc's Fang 0 0 1
 "Spearman Scroll 8" 0 0 0
 "Spearman Scroll 9" 0 0 0
 "Spearman Scroll 10" 0 0 0
+Eden Group Boots I 0 0 0
+Eden Group Boots II 0 0 0
+Eden Group Boots III 0 0 0
+Eden Group Uniform I 0 0 0
+Eden Group Uniform II 0 0 0
+Eden Group Uniform III 0 0 0
+Eden Group Bow I 0 0 0
+Eden Group Bow II 0 0 0
+Eden Group Bow3 0 0 0
+Eden Group Hat 0 0 0
+Eden Group Manteau 0 0 0
+LV10 Blessing Scroll 0 0 0
+LV10 Agil Scroll 0 0 0
+Yellow Butterfly Wing 0 0 0
+Eden Group Mark 0 0 0
+Novice Butterfly Wing 0 0 0
+Novice Potion 0 0 0

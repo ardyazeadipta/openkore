@@ -17,7 +17,7 @@ reconnect 30
 poseidon_wait_reply 15
 
 # Activate AI after x seconds after the map's loaded
-ai 2
+ai 0
 
 ai_move_retry 0.25
 ai_move_giveup 1.5
@@ -27,15 +27,15 @@ ai_attack 1
 ai_homunculus_attack 1
 
 # Check for monsters to attack every x seconds
-ai_attack_auto 0.5
+ai_attack_auto 0.05
 
 # Give up attacking a monster if it can't be reached within x seconds
-ai_attack_giveup 12
+ai_attack_giveup 4
 
 # If you've just killed a monster, and there are no aggressives,
 # and you're not picking up any items, wait x seconds before doing
 # anything else.
-ai_attack_waitAfterKill 0.7
+ai_attack_waitAfterKill 0.2
 ai_attack_unstuck 2.75
 ai_attack_unfail 5
 
@@ -99,11 +99,11 @@ ai_item_equip_auto 0.75
 ai_equipAuto_skilluse_giveup 5
 ai_equip_giveup 2
 
-ai_teleport 1
-ai_teleport_away 3
-ai_teleport_idle 4
-ai_teleport_portal 2
-ai_teleport_hp 3
+ai_teleport 0.5
+ai_teleport_away 1.5
+ai_teleport_idle 2
+ai_teleport_portal 1
+ai_teleport_hp 1.5
 ai_teleport_safe_force 120
 
 ai_teleport_retry 0.5
