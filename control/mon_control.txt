@@ -190,10 +190,3 @@ Tao Gunka 0 1 0
 Thanatos 0 1 0
 Turtle General 0 1 0
 Vesper 0 1 0
-
-#botmap#
-Hydra 1 0 1 1
-Megalith 1 0 1 1
-Tri Joint 1 0 1 1
-Stalactic Golem 1 0 1 1
-Neraid 0 1 0
